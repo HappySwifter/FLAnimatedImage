@@ -37,8 +37,8 @@
 			isa = PBXGroup;
 			children = (
 				84AB1DD9241D0A4F0039C1C7 /* FLAnimatedImage.h */,
-				84AB1DDA241D0A4F0039C1C7 /* FLAnimatedImageView.h */,
 				0C22DAE81BCABF4F006E1D3B /* FLAnimatedImage.m */,
+				84AB1DDA241D0A4F0039C1C7 /* FLAnimatedImageView.h */,
 				0C22DAEA1BCABF4F006E1D3B /* FLAnimatedImageView.m */,
 				0C22DAEB1BCABF4F006E1D3B /* Info.plist */,
 			);
